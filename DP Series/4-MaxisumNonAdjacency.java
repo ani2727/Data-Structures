@@ -1,5 +1,6 @@
-//Memoization
+//Problem Link: https://www.codingninjas.com/studio/problems/maximum-sum-of-non-adjacent-elements_843261?
 
+//Memoization
 public class Solution 
 {
 	public static int solve(int ind,ArrayList<Integer> nums,int dp[])
